@@ -5,11 +5,11 @@ import { cheveronRight } from '../assets/icons'
 const SpecialOffers = () => {
   return (
     <>
-      <section className="lg:flex-row md:flex-col sm:flex-col max-sm:flex-col flex justify-wrap items-center max-xl:flex col-reverse gap-10 max-container">
+      <section className="flex justify-between items-center max-xl:flex-col-reverse gap-10 max-container">
         <div className="flex-1 "> 
           <img src={offer} width={773} height={687} className="object-contain w-full" alt="" />
         </div>
-        <div className="lg:pl-[4.5%] flex flex-1 flex-col">
+        <div className="flex flex-1 flex-col">
           <h1 className="mt-10 font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
             <span className="text-coral-red inline-block mt-3">  Special </span> Offer
             

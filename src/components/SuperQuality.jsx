@@ -7,8 +7,7 @@ const SuperQuality = () => {
     <section className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container">
       <div className="lg:pl-[4.5%] flex flex-1 flex-col">
           <h1 className="mt-10 font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
-            We provide you <span className="text-coral-red inline-block mt-3">  Super </span> 
-            <span className="text-coral-red inline-block "> Quality </span> Shoes
+            We provide you <span className="text-coral-red inline-block mt-3">  Super Quality </span> Shoes
           </h1>
           <p className="mt-4 lg:max-w-lg info-text">
             Ensuring premium comfort and style, our meticulously crafted footwear is designed to
